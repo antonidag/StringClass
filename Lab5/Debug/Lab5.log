@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  String.cpp
+c:\users\antonidag\desktop\mah kurser\c++\lab5\lab5\string.cpp(119): warning C4018: '>': signed/unsigned mismatch
+  Lab5.cpp
+c:\users\antonidag\desktop\mah kurser\c++\lab5\lab5\lab5.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\antonidag\Desktop\Mah Kurser\C++\Lab5\Debug\Lab5.exe
